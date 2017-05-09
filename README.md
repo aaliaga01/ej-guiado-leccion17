@@ -1,1 +1,1 @@
-Crear varioas arreglos usando PF
+Crear varios arreglos usando PF
