@@ -18,3 +18,13 @@ function intersection (l1,l2){
 console.log (intersection(l1,l2));
 
 //............................................
+
+//.......................Empieza ejercicio guiado 2
+function intersectionSet2(l1,l2){
+	return l1.filter(function(n){
+		return l2.indexOf(n) !== -1
+	});
+};
+console.log(intersectionSet2(l1,l2));
+
+//.............................................
